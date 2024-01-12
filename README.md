@@ -1,4 +1,9 @@
 # Aplicação criada na Jornada Python da Hashtag
 
-### Documentação pyautogi => [Documentação](https://pyautogui.readthedocs.io/en/latest/install.html)
-### Graficos => [Ferramenta](https://plotly.com/python/)
+
+### Documentaçao
+- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/install.html)
+- [Plotly](https://plotly.com/python/)
+- [Flask ](https://flask.palletsprojects.com/en/2.3.x/)
+- [Flask no Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
+- [Socketio](https://socket.io/pt-br/docs/v4/)
